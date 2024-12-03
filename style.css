@@ -1,0 +1,63 @@
+.bd{
+    margin: 0 0 0 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #2362CC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+}
+.bd1{
+    margin: 0 0 0 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #2362CC;
+    margin-top: 100px;
+}
+.pd1{
+    background-color: white;
+    align-items: center;
+    padding: 20 10 20 10;
+    width: 40%;
+    border-radius: 10px;
+}
+#p1{
+    padding: 0px;
+    width: 100%;
+    font-size: 30px;
+    display: block;
+    display: flex;
+    justify-content: space-between;
+}
+#list1{
+    text-decoration: none;
+    padding: 0px;
+    line-height: 60px;
+    list-style-type: none;
+}
+#del{
+    background-color: #2362CC;
+    color: white;
+    font-size: 20px;
+    padding: 0px 20px 0 20px;
+    border-radius: 10px;
+    border: none;
+    height: 50px;
+}
+.in1{
+    height: 50px;
+    width: 80%;
+    border-radius: 10px;
+    text-align: left;
+    color: rgb(78, 47, 253);
+    font-size: 20px;
+    border: solid blue 1px;
+}
+.bu1{
+    height: 50px;
+    width: 15%;
+    background-color: #2362CC;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    border: #2362CC solid 1px;
+}
