@@ -1,0 +1,36 @@
+.b1{
+      font-family: "HP Simplified";
+      background: linear-gradient(165deg,#F8345D, #D9336B,#682D8C,#5E35B0, #4E2374);
+      height: 735px;
+      width: 100vh;
+      color: #ffffff;
+}
+.d1{
+      position: absolute;
+      top: 100px;
+      left: 570px;
+}
+.t1{
+      table-layout: fixed;
+      border: 1px solid #3462f84b;
+      background-color: #66D4B8;
+}
+.th1{
+      width: 100px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      border-right: 2px solid #76e4c8;
+}
+.th2{
+      width: 100px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+}
+.th3{
+      width: 100px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      border-right: 2px solid #76e4c8;
+      font-size: 20px;
+      font-weight: 500;
+}

@@ -1,0 +1,42 @@
+.b1{
+      font-family: "HP Simplified";
+      background: linear-gradient(165deg,#002055, #023C47,#05553C, #06623B);
+      height: 735px;
+      width: 100vh;
+      color: #ffffff;
+}
+.f1{
+      position: absolute;
+      top: 200px;
+      left: 550px;
+      font-size: 25px;
+      display: flex;
+}
+#i1{
+      opacity: 30%;
+      height: 40px;
+      width: 500px;
+      border-radius: 30px;
+      border: none;
+      margin-bottom: 10px;
+      padding-left: 10px;
+}
+.d1{
+      margin-bottom: 20px;
+}
+.submit{
+      font-style: italic;
+      border-radius: 20px;
+      height: 40px;
+      width: 90px;
+      background-color: #ffffff;
+      border:none;
+      opacity: 30%;
+      font-family: "HP Simplified";
+      transition-duration: 0.8s;
+}
+.submit:hover{
+      opacity: 70%;
+      background-color: #002055;
+      transform: translateX(2);
+}
